@@ -25,7 +25,6 @@ public class LoadDatabase {
 	
 	private static final Logger log = LoggerFactory.getLogger(LoadDatabase.class);
 	
-	@SuppressWarnings("deprecation")
 	@Bean
 	CommandLineRunner initDatabase(EmployeeDao employeeDao) {
 		
