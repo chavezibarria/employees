@@ -10,7 +10,7 @@ public interface IEmployeeService {
 	
 	public Employee findById(Long id);
 	
-	public void updateEmployee(Employee employee);
+	public Employee addOrUpdateEmployee(Employee employee);
 	
 	public void delete(Long id);
 }

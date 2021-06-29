@@ -33,8 +33,8 @@ public class EmployeeServiceImpl implements IEmployeeService {
 	}
 
 	@Override
-	public void updateEmployee(Employee employee) {
-		employeeDao.save(employee);
+	public Employee addOrUpdateEmployee(Employee employee) {
+		return employeeDao.save(employee);
 	}
 
 	@Override
