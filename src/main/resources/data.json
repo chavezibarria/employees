@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "firstName": "Calebsio",
+        "middleInitial": "D",
+        "lastName": "Calabacio",
+        "dateOfBith": "2021-01-01",
+        "dateOfEmployment": "2021-01-01",
+        "active": true
+    },
+    {
+        "id": 2,
+        "firstName": "Camila",
+        "middleInitial": "D",
+        "lastName": "Camileta",
+        "dateOfBith": "2020-12-31",
+        "dateOfEmployment": "2020-12-31",
+        "active": true
+    },
+    {
+        "id": 3,
+        "firstName": "Yomero",
+        "middleInitial": "D",
+        "lastName": "Xeskuero",
+        "dateOfBith": "2020-12-31",
+        "dateOfEmployment": "2020-12-31",
+        "active": true
+    },
+    {
+        "id": 4,
+        "firstName": "Chupale",
+        "middleInitial": "D",
+        "lastName": "Pichon",
+        "dateOfBith": "2021-01-01",
+        "dateOfEmployment": "2021-01-01",
+        "active": true
+    }
+]
