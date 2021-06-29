@@ -8,7 +8,9 @@ public interface IEmployeeService {
 	
 	public List<Employee> findAll();
 	
-	public Employee findById(Long Id);
+	public Employee findById(Long id);
 	
-
+	public void updateEmployee(Employee employee);
+	
+	public void delete(Long id);
 }
