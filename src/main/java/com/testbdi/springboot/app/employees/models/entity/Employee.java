@@ -29,7 +29,7 @@ public class Employee implements Serializable{
 		this.firstName = firstName;
 		this.middleInitial = middleInitial;
 		this.lastName = lastName;
-		this.dateOfBith = dateOfBith;
+		this.dateOfBirth = dateOfBith;
 		this.dateOfEmployment = dateOfEmployment;
 		this.active = true;
 		
@@ -49,7 +49,7 @@ public class Employee implements Serializable{
 	
 	@Column(name = "date_of_birth")
 	@Temporal(TemporalType.DATE)
-	private Date dateOfBith;
+	private Date dateOfBirth;
 	
 	@Column(name = "date_of_employment")
 	@Temporal(TemporalType.DATE)
@@ -97,12 +97,12 @@ public class Employee implements Serializable{
 		this.lastName = lastName;
 	}
 
-	public Date getDateOfBith() {
-		return dateOfBith;
+	public Date getDateOfBirth() {
+		return dateOfBirth;
 	}
 
-	public void setDateOfBith(Date dateOfBith) {
-		this.dateOfBith = dateOfBith;
+	public void setDateOfBirth(Date dateOfBirth) {
+		this.dateOfBirth = dateOfBirth;
 	}
 
 	public Date getDateOfEmployment() {

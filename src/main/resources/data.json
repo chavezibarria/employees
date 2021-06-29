@@ -4,7 +4,7 @@
         "firstName": "Calebsio",
         "middleInitial": "D",
         "lastName": "Calabacio",
-        "dateOfBith": "2021-01-01",
+        "dateOfBirth": "2021-01-01",
         "dateOfEmployment": "2021-01-01",
         "active": true
     },
@@ -13,7 +13,7 @@
         "firstName": "Camila",
         "middleInitial": "D",
         "lastName": "Camileta",
-        "dateOfBith": "2020-12-31",
+        "dateOfBirth": "2020-12-31",
         "dateOfEmployment": "2020-12-31",
         "active": true
     },
@@ -22,7 +22,7 @@
         "firstName": "Yomero",
         "middleInitial": "D",
         "lastName": "Xeskuero",
-        "dateOfBith": "2020-12-31",
+        "dateOfBirth": "2020-12-31",
         "dateOfEmployment": "2020-12-31",
         "active": true
     },
@@ -31,7 +31,7 @@
         "firstName": "Chupale",
         "middleInitial": "D",
         "lastName": "Pichon",
-        "dateOfBith": "2021-01-01",
+        "dateOfBirth": "2021-01-01",
         "dateOfEmployment": "2021-01-01",
         "active": true
     }
